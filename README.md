@@ -30,6 +30,12 @@ File archiver to create/extract 7zip, tar, gzip, bzip etc.
 A floating browser, because Mac OS can't pin windows on top (seriously, Apple!?). [Install via Mac App Store](https://apps.apple.com/br/app/helium/id1054607607?mt=12), or
 
     brew cask install helium
+    
+## [CheatSheet](https://www.mediaatelier.com/CheatSheet/)
+
+Displays a floating window with all keyboard shortcuts for a given program when you hold Cmd for a while. Download from their website, or
+
+    brew cask install cheatsheet
 
 ## [Oh my ZSH](https://ohmyz.sh/)
 
