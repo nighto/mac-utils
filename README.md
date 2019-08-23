@@ -12,6 +12,18 @@ A collection of Mac utils links for developers or hardusers
 Similar to `apt install build-essential` on Debian-like, installs `gcc` etc.
 
     xcode-select --install
+    
+## [Caskbrew](https://www.cakebrew.com/)
+
+A graphical interface to Homebrew. Install from their website, or
+
+    brew cask install cakebrew
+
+## [Keka](https://www.keka.io/)
+
+File archiver to create/extract 7zip, tar, gzip, bzip etc.
+
+    brew cask install keka
 
 ## [Helium](https://heliumfloats.com/)
 
