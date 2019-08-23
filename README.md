@@ -18,3 +18,7 @@ Similar to `apt install build-essential` on Debian-like, installs `gcc` etc.
 A floating browser, because Mac OS can't pin windows on top (seriously, Apple!?). [Install via Mac App Store](https://apps.apple.com/br/app/helium/id1054607607?mt=12), or
 
     brew cask install helium
+
+## [Oh my ZSH](https://ohmyz.sh/)
+
+A Z Shell framework
