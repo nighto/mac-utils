@@ -40,3 +40,7 @@ Displays a floating window with all keyboard shortcuts for a given program when 
 ## [Oh my ZSH](https://ohmyz.sh/)
 
 A Z Shell framework
+
+## [Parallels](https://www.parallels.com/)
+
+The best Virtual Machine software for MacOS
