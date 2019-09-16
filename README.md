@@ -1,4 +1,5 @@
 # mac-utils
+
 A collection of Mac utils links for developers or hardusers
 
 ## [Homebrew](https://brew.sh)
@@ -6,13 +7,13 @@ A collection of Mac utils links for developers or hardusers
 `apt`/`yum`/`nuget` for Mac OS.
 
     /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-    
+
 ## XCode CLI tools
 
 Similar to `apt install build-essential` on Debian-like, installs `gcc` etc.
 
     xcode-select --install
-    
+
 ## [Caskbrew](https://www.cakebrew.com/)
 
 A graphical interface to Homebrew. Install from their website, or
@@ -30,12 +31,18 @@ File archiver to create/extract 7zip, tar, gzip, bzip etc.
 A floating browser, because Mac OS can't pin windows on top (seriously, Apple!?). [Install via Mac App Store](https://apps.apple.com/br/app/helium/id1054607607?mt=12), or
 
     brew cask install helium
-    
+
 ## [CheatSheet](https://www.mediaatelier.com/CheatSheet/)
 
 Displays a floating window with all keyboard shortcuts for a given program when you hold Cmd for a while. Download from their website, or
 
     brew cask install cheatsheet
+
+## [SensibleSideButtons](https://sensible-side-buttons.archagon.net/)
+
+For those using external mouse with side buttons, this nifty app activates the back and forward buttons on your pointing device (buttons 4 and 5), mapping them to such functions. Install via their website, or
+
+    brew cask install sensiblesidebuttons
 
 ## [Oh my ZSH](https://ohmyz.sh/)
 
